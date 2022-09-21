@@ -17,7 +17,7 @@ class MissionCard extends React.Component {
 
 MissionCard.propTypes = {
   name: PropTypes.string,
-  year: PropTypes.number,
+  year: PropTypes.string,
   country: PropTypes.string,
   destination: PropTypes.string,
 };
