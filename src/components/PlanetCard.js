@@ -19,8 +19,8 @@ PlanetCard.propTypes = {
 };
 
 PlanetCard.defaultProps = {
-  planetName: 'jooj2',
-  planetImage: 'jooj3',
+  planetName: 'Default Planet',
+  planetImage: 'Default Planet Image',
 };
 
 export default PlanetCard;
